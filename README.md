@@ -6,11 +6,11 @@
 - The current repo is used to feed back the issues and requirements of GraphDesk.
 - At present, it is personal maintenance.
 - I will choose the appropriate time to open source to the current REPO.
-- This is the public beta stage. There will be many problems and imperfections. Please be more tolerant.
+- This is the public beta stage. There will be many problems and imperfections. Please give me more time or help me make it better together.
 
     - If it bothers you, [issue](https://github.com/dudu-ltd/graph_desk/issues/new) please.
     - If you want to contribute ideas, [discussion](https://github.com/dudu-ltd/graph_desk/discussions/new?category=ideas) please.
-- If my personal savings can allow me to develop full-time, I will continue to improve the current client.
+- If my personal savings can allow me to develop full-time, I will continue to improve the current client. Welcome for collaboration.
 
 ## Software introduction and download
 URL：[dudu.ltd/products/graph-desk](https://dudu.ltd/products/graph-desk) 
