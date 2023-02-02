@@ -19,6 +19,6 @@ The current version only supports: [nebula-graph](https://github.com/vesoft-inc/
 ## Main modules
 Infrastructure | REPO
 ---|---
-本地服务底层 | [ngbatis](https://gitee.com/CorvusYe/ngbatis) + springboot
-前端UI框架 | [wao_ui](https://gitee.com/dudu-ltd/wao_ui)
-数据可视化组件 | [flutter_graph_view](https://gitee.com/dudu-ltd/flutter_graph_view)
+Local server | [ngbatis](https://gitee.com/CorvusYe/ngbatis) + springboot
+Front end UI | [wao_ui](https://gitee.com/dudu-ltd/wao_ui)
+Data visualization  | [flutter_graph_view](https://gitee.com/dudu-ltd/flutter_graph_view)
